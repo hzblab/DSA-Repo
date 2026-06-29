@@ -1,6 +1,6 @@
 # DSA Progress Tracker
 
-Tracking my Data Structures and Algorithms progress using Python.
+Tracking my Data Structures and Algorithms progress using Python (not using java anymore).
 
 ## Status
 
